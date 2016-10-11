@@ -1,0 +1,6 @@
+
+# ROOT compilation files
+*_C.*
+
+# swap files
+*.swp
